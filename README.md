@@ -1,35 +1,5 @@
 <br/><br/>
 
-<table width=100%>
-<tr>
-
-<td align="center" width="20%" height="120px">
-<img height="100%" src="icon.png">
-</td>
-
-<td width="60%" height="100px">
-<div style="text-align:center;margin:auto;background-image: linear-gradient(45deg, #FCC419 40%, #1CFFAE 90%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;-moz-background-clip: text;-moz-text-fill-color: transparent;">
-
-<h1> Natan Rafael </h1>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natan-rafael-abrahão-barbosa-86b890208)
-![](https://komarev.com/ghpvc/?username=natanrafael&style=flat-square&color=00A469)
-
-</div>
-</td>
-
-<td align="center" width="20%" height="120px">
-<img height="100%" src="icon.png">
-</td>
-
-</tr>
-
-</table>
-
-<br/><br/>
-<br/><br/>
-
-
 # 💻 Tech Stack:
 
 <table>
@@ -128,5 +98,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=natanrafael&title_color=4acae5&text_color=60daac&icon_color=ceb81f&bg_color=313a46&border_color=ceb81f&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
-
-<img src="https://raw.githubusercontent.com/natanrafael/natanrafael/output/snake.svg" alt="Snake animation" />
